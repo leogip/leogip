@@ -31,7 +31,7 @@ Chelyabinsk state Tech University, Computer Science
 
 #### About me
 
-More then 8 years in IT, finished 10 projects, had a 2 years experience like System Administrator
+More then 10 years in IT, finished 10 projects, had a 3 years experience like System Administrator
 
 #### Skills
 
@@ -41,7 +41,7 @@ More then 8 years in IT, finished 10 projects, had a 2 years experience like Sys
 
 ##### Tools
 
-`Linux` `Docker`
+`Linux` `Docker` `Kuber`
 
 ##### Lang
 
