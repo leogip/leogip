@@ -20,7 +20,7 @@ Ready to relocate
 
 Russian — Native
 
-English — C1 — Advanced
+English — B2 — Upper-Intermediate
 
 #### Education
 
